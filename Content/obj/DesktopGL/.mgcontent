@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/joaon/OneDrive/Ambiente de Trabalho/IPCA/1º_ano_2021_2º_semestre/Técnicas de Desenvolvimento de Jogos/Sokoban/Sokoban/Content/SokobanSprites/Character4.png</File>
+    <File>C:/Users/joaon/OneDrive/Ambiente de Trabalho/IPCA/1º_ano_2021_2º_semestre/Técnicas de Desenvolvimento de Jogos/Sokoban/Sokoban/Content/SokobanSprites/Crate_Beige.png</File>
+    <File>C:/Users/joaon/OneDrive/Ambiente de Trabalho/IPCA/1º_ano_2021_2º_semestre/Técnicas de Desenvolvimento de Jogos/Sokoban/Sokoban/Content/SokobanSprites/EndPoint_Black.png</File>
+    <File>C:/Users/joaon/OneDrive/Ambiente de Trabalho/IPCA/1º_ano_2021_2º_semestre/Técnicas de Desenvolvimento de Jogos/Sokoban/Sokoban/Content/SokobanSprites/GroundGravel_Grass.png</File>
+    <File>C:/Users/joaon/OneDrive/Ambiente de Trabalho/IPCA/1º_ano_2021_2º_semestre/Técnicas de Desenvolvimento de Jogos/Sokoban/Sokoban/Content/SokobanSprites/Wall_Black.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

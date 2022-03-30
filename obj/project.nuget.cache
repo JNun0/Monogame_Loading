@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xe+n0GPlelR6UHyvLY6nMtQMB3QCxyCZihaJz9aUAqLOJ1VxBHVnj29dddnIcxT3WTNWr8DHJKVddtfge9dVzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaon\\OneDrive\\Ambiente de Trabalho\\IPCA\\1º_ano_2021_2º_semestre\\Técnicas de Desenvolvimento de Jogos\\Sokoban\\Sokoban\\Sokoban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaon\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
